@@ -47,5 +47,8 @@
         "corgi_shark2",
         "KingOfBizzare",
         "nosirie"
-    ]
+    ],
+    "__comment1": "Below is console commands, these arent needed. change if better performance is needed.",
+    "LowQualityScopes": false,
+    "ZombieDamage": 5.0
   }
