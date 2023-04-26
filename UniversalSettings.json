@@ -49,6 +49,6 @@
         "nosirie"
     ],
     "__comment1": "Below is console commands, these arent needed. change if better performance is needed.",
-    "LowQualityScopes": false,
+    "LowQualityScopes": true,
     "ZombieDamage": 5.0
   }
