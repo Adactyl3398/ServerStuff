@@ -55,5 +55,6 @@
     "__comment2": "Starting health is an int, it is converted to a float mid-game.",
     "PlayerSpawnHealth": 100,
     "UpgradeCost": 50,
-    "ZombieSpawnTimer": 1.6
+    "ZombieSpawnTimer": 1.6,
+    "__comment3": "RUN REFRESHLISTS AFTER UPDATING ANY OF THE ABOVE"
   }
