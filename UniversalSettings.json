@@ -51,5 +51,9 @@
     ],
     "__comment1": "Below are console commands, these arent needed. change if better performance is needed.",
     "LowQualityScopes": true,
-    "ZombieDamage": 5.0
+    "ZombieDamage": 5.0,
+    "__comment2": "Starting health is an int, it is converted to a float mid-game.",
+    "PlayerSpawnHealth": 100,
+    "UpgradeCost": 50,
+    "ZombieSpawnTimer": 1.6
   }
