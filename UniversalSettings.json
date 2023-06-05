@@ -47,10 +47,10 @@
     "__comment1": "Below are console commands, these arent needed. change if better performance is needed.",
     "LowQualityScopes": true,
     "ZombieDamage": 5.0,
-    "__comment2": "Starting health is an int, it is converted to a float mid-game.",
+    "__comment2": "Starting health is an int"
     "PlayerSpawnHealth": 100,
     "UpgradeCost": 50,
     "ZombieSpawnTimer": 0.4,
-    "__comment3": "RUN REFRESHLISTS AFTER UPDATING ANY OF THE ABOVE",
-    "__comment4": "gaysex"
+    "PenaltyBan": false,
+    "__comment3": "if the above is false players will be kicked on penalty, otherwise it bans"
   }
