@@ -30,23 +30,10 @@
       "Skelebones420",
       "Fishbot1"
     ],
-    "DonatorTier1": [
-        "Adactyl",
-        "Fishbot1",
-        "Ye_West",
-        "Pooble",
-        "corgi_shark2",
-        "KingOfBizzare",
-        "nosirie",
-        "thedognamedkirby"
-    ],
-    "__comment1": "Below are console commands, these arent needed. change if better performance is needed.",
-    "LowQualityScopes": true,
-    "ZombieDamage": 5.0,
-    "__comment2": "Starting health is an int"
     "PlayerSpawnHealth": 100,
     "UpgradeCost": 50,
     "ZombieSpawnTimer": 0.4,
     "PenaltyBan": false,
-    "__comment3": "if the above is false players will be kicked on penalty, otherwise it bans"
+    "__comment3": "if the above is false players will be kicked on penalty, otherwise it bans",
+    "ServerIPs": ["135.148.120.251"]
   }
