@@ -35,5 +35,5 @@
     "ZombieSpawnTimer": 0.4,
     "PenaltyBan": false,
     "__comment3": "if the above is false players will be kicked on penalty, otherwise it bans",
-    "ServerIP": "173.171.106.14"
+    "ServerIP": "152.160.174.238"
   }
